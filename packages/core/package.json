@@ -28,8 +28,8 @@
     "directory": "packages/core"
   },
   "devDependencies": {
-    "@vitejs/plugin-react": "^6.0.1",
-    "vite": "^8.0.2",
+    "@vitejs/plugin-react": "^6.0.3",
+    "vite": "^8.1.0",
     "vite-plugin-dts": "^4.5.4",
     "typescript": "^5.3.3"
   }
